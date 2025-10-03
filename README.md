@@ -11,7 +11,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="GML" height="30" width="40" src="https://www.svgrepo.com/show/373620/gamemaker81.svg">
-   <img align="center" alt="Gamemaker" height="30" width="40" src="http://icon-library.com/icon/gamemaker-icon-16.html.html>Gamemaker Icon # 374910">
+   <img align="center" alt="Gamemaker" height="30" width="40" src="https://iconduck.com/media/icons/20312/gamemaker.svg">
   
   
 </div>
